@@ -1,0 +1,6 @@
+{
+  "name": "Askora AI - FAQ Chatbot",
+  "description": "An intelligent FAQ assistant that understands natural questions and finds the best answers using TF-IDF and Cosine Similarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
